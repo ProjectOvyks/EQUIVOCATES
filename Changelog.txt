@@ -1,0 +1,164 @@
+# Equivocates Changelog
+All notable changes to this project will be documented in this file.
+
+##[May 2020 Build]-----------------------------------------------------------------
+### Added
+Simple smoke particle emitter system
+Equivocates logger now includes screenshot with log as zipped attachment
+
+### Changed
+Arrival Ladder animation
+All scripts used by 'Game' and 'Menu' are externally saved to 'scripts' subfolder
+
+
+### Removed
+
+
+
+##[April 2020 Build]-----------------------------------------------------------------
+### Added
+- Kitchen population
+- Game launcher
+- Update service
+- Loadscreen music with fadeout
+- Loadscreen fresh save text
+
+### Changed
+- Compressed all material textures to JPEG
+- Diffuse textures are now all 1024x1024 and non-diffuse textures are all 512x512
+- Outdoor concrete texture
+- All game verion texts read from file "ver.ddl" to determine game version.
+
+### Removed
+- The Library
+
+
+##[March 2020 Build]-----------------------------------------------------------------
+### Added
+- Nightvision goggles model, camera cover, sound, and animations
+- Save file nightvision inventory/equipped
+- Vignette Filter
+- Arrival Billboard
+- Bathroom population
+- Bathroom toilet and sink interactions
+- Objective info to logger (under checkpoint)
+- Kitchen population
+
+### Changed
+- HUD prompt volume
+- Player sprint animation
+- Player collision initially suspends then restores on gamestart (fixes bug with libloaded collision)
+
+
+
+##[February 2020 Build]-----------------------------------------------------------------
+### Added
+- Equivocates developer console with commands
+- Discovery scene population
+- Discovery scene map
+- Sound effects for both entities
+- Custom field of view messaging for in-game cutscenes
+- Arrival intro event
+- Force reset the player camera and rig parameters on game start
+- Barrel filter
+- Radial blur filter
+- Night vision filter
+
+### Changed
+- Arrival ladder event
+- Event fade stays fully faded longer
+- Fixed objective header lag upon first trigger (sound issue)
+- Fixed flashlight sound playing twice upon first holster
+
+### Removed
+- FXAA filter usage
+- Total frametime counter
+
+
+
+##[January 2020 Build]-----------------------------------------------------------------
+### Added
+- HUD text prompt and objective prompt with dynamic text, fade and sound
+- Context sensitive footstep sound triggers
+- Door handle animations
+- Interactive cabinets, drawers, and cupboards all with sound effects
+- Bathrooms with new cubicle doors
+- Objective screen on phone with more specific objective text
+
+### Changed
+- Discovery scene population
+- Fixed player footsteps causing performance issues
+- Fixed player M9 causing performance issues
+- Flashlight now matches viewmodel with realistic light tonemapping
+- Changed player hitbox and fixed slopes while walking
+- Fixed sound effect object logic causing performance issues
+- Increased first-person camera's local x-axis boundaries
+- Changed HUD interact reticle
+- Fixed reticle and interactable objects operating whilst player input is held
+- Objectives on loadscreen to be more specific and not checkpoint based
+- Entity rotation script runs based on movement
+- Entity chasetimer now resets when line of sight is made with the player
+
+### Removed
+- Player Grabber object and python script
+
+
+
+##[December 2019 Build]-----------------------------------------------------------------
+### Added
+- HDR filter
+- FXAA filter
+- Bloom filter
+- GodRays filter
+- Office doors
+- Player M9 pistol and holster system
+- Camera animation blending (AnimReset.py)
+- External blend file asynchronous libloading
+
+### Changed
+- SSAO filter to HBAO filter
+- Project file format from '*.blend' to '*.upblend' to launch with custom UPBGE build
+- Game and Menu scenes are now seperate '*upblend' files
+- Computer scene population
+- Arrival/Discovery scene population and mesh cleanup
+- Player footstep soundfx are now random instead of cyclic
+- Fixed fullscreen/resolution application
+- The 'media' folder containing all the assets in the game forced itself downwards in hierarchy
+- Equivocates LOGGER to work when the player presses F8 and allows a custom message
+
+
+
+##[November 2019 Build]-----------------------------------------------------------------
+### Added
+- Interactive computer
+- Input text and custom fields
+
+### Changed
+- File and folder workflow simplified
+- Alpha blend types of all objects with alpha transparency
+
+### Removed
+- Fake volume lights (due to lag with the alpha blend type)
+
+
+
+##[October 2019 Build]-----------------------------------------------------------------
+### Added
+- Equivocates LOGGER and Email feedback system
+- Full loadscreen with objective and tips
+- Playermodel and viewmodel
+- Seamless cutscene system
+- Menu storage system
+- Phone Pausemenu
+
+### Changed
+- Main menu layout
+- Settings and save handlers
+- Name of the final game changed from 'Ovyks' to 'Equivocates'
+- Name of the development project changed to 'Project Ovyks'
+
+### Removed
+- Old loading screen and loading screen video
+- Splash screen
+
+
