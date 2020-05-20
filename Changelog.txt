@@ -4,6 +4,7 @@ Equivocates Latest Update (v-0.1-may2020)
 • Added 
         Simple smoke particle emitter system
         Logger now includes screenshot
+        Patch notes in launcher
 
 • Changed
         Arrival Ladder animation
@@ -14,5 +15,4 @@ Equivocates Latest Update (v-0.1-may2020)
         Various bugs
   
   
- 
  ###[End of Patch Notes]-----------------------------------------------------------------
