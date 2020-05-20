@@ -14,5 +14,4 @@ Equivocates Latest Update (v-0.1-may2020)
 • \\\ Removed
 \        Various bugs
   
-  
  ###[-End of Patch Notes-]###
