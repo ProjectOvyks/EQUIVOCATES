@@ -9,10 +9,11 @@ Equivocates Latest Update
 • Changed
       Arrival Ladder animation
       All scripts are stored externally
-
+      Player collision properties
 
 • Removed
       Various bugs
   
   
+ 
  ###[End of Patch Notes]-----------------------------------------------------------------
