@@ -1,6 +1,6 @@
 Equivocates Latest Update (v-0.1-may2020)
 
-###[Patch Notes]-----------------------------------------------------------------
+###[Patch Notes Summary]-----------------------------------------------------------------
 • Added 
         Simple smoke particle emitter system
         Logger now includes screenshot
