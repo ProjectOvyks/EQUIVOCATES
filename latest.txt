@@ -1,17 +1,17 @@
 Equivocates Latest Update (v-0.1-may2020)
 
-###[-Patch Notes Summary-]###
-• \\\ Added 
-\        Simple smoke particle emitter system
-\        Logger now includes screenshot
-\        Patch notes in launcher
+###[ Patch Notes Summary ]###
+• \\ Added 
+          Simple smoke particle emitter system
+          Logger now includes screenshot
+          Patch notes in launcher
 
-• \\\ Changed
-\        Arrival Ladder animation
-\        All scripts are stored externally
-\        Player collision properties
+• \\ Changed
+          Arrival Ladder animation
+          All scripts are stored externally
+          Player collision properties
 
-• \\\ Removed
-\        Various bugs
+• \\ Removed
+          Various bugs
   
- ###[-End of Patch Notes-]###
+ ###[ End of Patch Notes ]###
