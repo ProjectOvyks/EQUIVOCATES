@@ -1,18 +1,18 @@
 Equivocates Latest Update
-(v-0.1-may2020)
+    (v-0.1-may2020)
 
-##[Patch Notes]-----------------------------------------------------------------
+###[Patch Notes]-----------------------------------------------------------------
 • Added
-  Simple smoke particle emitter system
-  Logger now includes screenshot
+      Simple smoke particle emitter system
+      Logger now includes screenshot
 
 • Changed
-  Arrival Ladder animation
-  All scripts are stored externally
+      Arrival Ladder animation
+      All scripts are stored externally
 
 
 • Removed
-  Various bugs
+      Various bugs
   
   
- ##[End of Patch Notes]-----------------------------------------------------------------
+ ###[End of Patch Notes]-----------------------------------------------------------------
