@@ -1,19 +1,19 @@
-Equivocates Latest Update
-    (v-0.1-may2020)
+Equivocates Latest Update (v-0.1-may2020)
 
 ###[Patch Notes]-----------------------------------------------------------------
-• Added
-      Simple smoke particle emitter system
-      Logger now includes screenshot
+• Added 
+        Simple smoke particle emitter system
+        Logger now includes screenshot
 
 • Changed
-      Arrival Ladder animation
-      All scripts are stored externally
-      Player collision properties
+        Arrival Ladder animation
+        All scripts are stored externally
+        Player collision properties
 
 • Removed
-      Various bugs
+        Various bugs
   
   
+ 
  
  ###[End of Patch Notes]-----------------------------------------------------------------
