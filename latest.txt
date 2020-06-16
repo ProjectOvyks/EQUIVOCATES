@@ -2,14 +2,14 @@ Equivocates Latest Update (v-0.1-june2020)
 
 ###[ Patch Notes Summary ]###
 • \\ Added 
-          
-          
-          
+          Computer music player
+          Computer text file reader
+          Computer image reader
 
 • \\ Changed
-          
-          
-          
+          Computer scene population
+          Computer sounds
+          Logger now grabs user and pass from GitHub repos
 
 • \\ Removed
           
