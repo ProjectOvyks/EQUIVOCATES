@@ -12,6 +12,6 @@ Equivocates Latest Update (v-0.1-june2020)
           Logger now grabs user and pass from GitHub repos
 
 • \\ Removed
-          
+          HDR Filter
   
  ###[ End of Patch Notes ]###
