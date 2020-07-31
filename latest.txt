@@ -2,16 +2,16 @@ Equivocates Latest Update (v-0.1-june2020)
 
 ###[ Patch Notes Summary ]###
 • \\ Added 
-          Computer music player
-          Computer text file reader
-          Computer image reader
+          Elevator in Discovery
+          HUD Text back-shadow
+          In-game music
 
 • \\ Changed
-          Computer scene population
-          Computer sounds
-          Logger now grabs user and pass from GitHub repos
+          HUD text can now change either upon initial trigger or until full fade away
+          Player concrete footstep sounds
+          Flashlight model disappears when light is turned off (fixed for events)
 
 • \\ Removed
-          HDR Filter
+          
   
  ###[ End of Patch Notes ]###
